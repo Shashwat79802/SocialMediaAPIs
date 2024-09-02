@@ -3,7 +3,7 @@ This is an Assignment for Accuknox. The assignment is to create a simple web app
 To start the application, simply clone the repo using the command:
 
 ```bash
-git clone
+git clone https://github.com/Shashwat79802/SocialMediaAPIs
 ```
 
 Then, to start the project, run the following command:
